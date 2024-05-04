@@ -1,0 +1,18 @@
+.app{
+  align-items: center;
+}
+
+label{
+  display: block;
+}
+
+input{
+  display: block;
+}
+
+#back-button{
+  background: transparent;
+  border: none;
+  color: blue;
+}
+
